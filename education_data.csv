@@ -1,0 +1,27 @@
+Series Name,Series Code,Country Name,Country Code,2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022]
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,India,IND,..,46.1399993896484,46.0779113769531,49.3199996948242,50.7563133239746,49.75
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,Brazil,BRA,60.6399993896484,61.810001373291,62.9900016784668,65.1999969482422,66.2399978637695,66.5100021362305
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,United States,USA,94.9176025390625,96.0299987792969,97.6129455566406,96.4599990844727,95.2501678466797,96.4899978637695
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,United Kingdom,GBR,99.75,97.9548416137695,97.9749298095703,99.8000030517578,99.8099975585938,98.9699096679688
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,Germany,DEU,95.5594787597656,96.3300018310547,95.4680480957031,95.6800003051758,93.5383453369141,93.9591369628906
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,"Korea, Rep.",KOR,87.3605194091797,87.5821838378906,87.8838653564453,88.0985565185547,88.5332107543945,88.8400955200195
+"Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)",SE.SEC.CUAT.LO.ZS,Nigeria,NGA,..,44.6248092651367,44.6351585388184,..,49.7583999633789,69.982292175293
+"Secondary education, duration (years)",SE.SEC.DURS,India,IND,7,7,7,7,7,7
+"Secondary education, duration (years)",SE.SEC.DURS,Brazil,BRA,7,7,7,7,7,7
+"Secondary education, duration (years)",SE.SEC.DURS,United States,USA,6,6,6,6,6,6
+"Secondary education, duration (years)",SE.SEC.DURS,United Kingdom,GBR,7,7,7,7,7,7
+"Secondary education, duration (years)",SE.SEC.DURS,Germany,DEU,9,9,9,9,9,9
+"Secondary education, duration (years)",SE.SEC.DURS,"Korea, Rep.",KOR,6,6,6,6,6,6
+"Secondary education, duration (years)",SE.SEC.DURS,Nigeria,NGA,6,6,6,6,6,6
+"Primary education, duration (years)",SE.PRM.DURS,India,IND,5,5,5,5,5,5
+"Primary education, duration (years)",SE.PRM.DURS,Brazil,BRA,5,5,5,5,5,5
+"Primary education, duration (years)",SE.PRM.DURS,United States,USA,6,6,6,6,6,6
+"Primary education, duration (years)",SE.PRM.DURS,United Kingdom,GBR,6,6,6,6,6,6
+"Primary education, duration (years)",SE.PRM.DURS,Germany,DEU,4,4,4,4,4,4
+"Primary education, duration (years)",SE.PRM.DURS,"Korea, Rep.",KOR,6,6,6,6,6,6
+"Primary education, duration (years)",SE.PRM.DURS,Nigeria,NGA,6,6,6,6,6,6
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,
+Last Updated: 04/15/2025,,,,,,,,,
